@@ -11,3 +11,5 @@ php artisan key:generate
 php artisan migrate
 
 php artisan db:seed (Seed some files to your db)
+
+Run php artisan reminder:weekly to schedule the ProfileImage Upload reminder Task
